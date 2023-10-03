@@ -1,0 +1,20 @@
+class name: axe		number of samples: 5000
+class name: baseball bat		number of samples: 5000
+class name: fork		number of samples: 5000
+class name: golf club		number of samples: 5000
+class name: hammer		number of samples: 5000
+class name: hockey stick		number of samples: 5000
+class name: knife		number of samples: 5000
+class name: line		number of samples: 5000
+class name: lollipop		number of samples: 5000
+class name: pencil		number of samples: 5000
+class name: rifle		number of samples: 5000
+class name: saw		number of samples: 5000
+class name: screwdriver		number of samples: 5000
+class name: shovel		number of samples: 5000
+class name: spoon		number of samples: 5000
+class name: squiggle		number of samples: 5000
+class name: sword		number of samples: 5000
+class name: syringe		number of samples: 5000
+class name: tennis racquet		number of samples: 5000
+class name: tornado		number of samples: 5000
