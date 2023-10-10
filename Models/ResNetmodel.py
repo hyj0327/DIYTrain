@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[ ]:
 
 
 import torchvision.models as models
@@ -9,7 +9,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 
-# In[2]:
+# In[ ]:
 
 
 def resnet34(numclasses, pretrained=False):
@@ -21,10 +21,4 @@ def resnet34(numclasses, pretrained=False):
     fc_features = model.fc.in_features
     model.fc = nn.Linear(fc_features, numclasses)
     return model
-
-
-# In[ ]:
-
-
-
 
