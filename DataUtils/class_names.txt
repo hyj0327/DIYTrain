@@ -2,6 +2,7 @@ class name: axe		number of samples: 5000
 class name: baseball bat		number of samples: 5000
 class name: baseball		number of samples: 5000
 class name: basketball		number of samples: 5000
+class name: blackberry		number of samples: 5000
 class name: broom		number of samples: 5000
 class name: cello		number of samples: 5000
 class name: circle		number of samples: 5000
@@ -14,11 +15,14 @@ class name: hockey stick		number of samples: 5000
 class name: ice cream		number of samples: 5000
 class name: knife		number of samples: 5000
 class name: line		number of samples: 5000
+class name: marker		number of samples: 5000
 class name: microphone		number of samples: 5000
 class name: mug		number of samples: 5000
+class name: nail		number of samples: 5000
 class name: pencil		number of samples: 5000
 class name: pillow		number of samples: 5000
 class name: pliers		number of samples: 5000
+class name: rake		number of samples: 5000
 class name: scissors		number of samples: 5000
 class name: screwdriver		number of samples: 5000
 class name: soccer ball		number of samples: 5000
